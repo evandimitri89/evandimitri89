@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Header](./img/github-header-image.png)
+
 <!--
 **evandimitri89/evandimitri89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Im currently working on SMK Kristen Immanuel
+- 📚 Im currently learning web development

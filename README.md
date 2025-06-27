@@ -17,3 +17,27 @@
 ##### Connect with me
 
 ![https://dribbble.com/evandimitri89](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![https://www.behance.net/evandithaiput](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evandimitri89&show_icons=true&theme=tokyonight&hide_title=true" alt="evandimitri89 Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandimitri89&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
+</p>
+
+---
+
+### 🌟 Contribution Snake Game
+
+<p align="center">
+  <img src="https://github.com/evandimitri89/evandimitri89/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+
+</p>
+
+---
+
+### 💥 GitHub Activity Graph
+
+[![Evan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evandimitri89&bg_color=0d1117&color=ffffff&line=00e5ff&point=00e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---

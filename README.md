@@ -1,6 +1,16 @@
 ## Hello World! 👋
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/evandimitri89/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+
 ![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhhOW50a2x2cXhmMDRucGU0anVsMGE3c3Nic2JwbnF3cTU3bWVydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UlexC9HXTiNz2/giphy.gif)
+
+</div>
 
 # 💫 About Me:
 
@@ -32,13 +42,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=evandimitri89&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=evandimitri89&icon=9&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/evandimitri89)
+### 📚 Contribution in the last year
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evandimitri89/evandimitri89/output/pacman-contribution-graph-dark.svg">
@@ -46,18 +50,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evandimitri89/evandimitri89/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/evandimitri89/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
+### 🎵 My Spotify
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xbcgiazjwzs6xds5mwaom2vmbi&unique={true|1|on|yes})
 
-</div>
+---
 
-###
+## 💰 You can help me by Donating
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/evandimitri89)

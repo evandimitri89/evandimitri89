@@ -4,10 +4,11 @@
 
 <!-- ![Header](./img/github-header-image.png) -->
 
-### I'm Evan Dimitri Greatess
+### I'm Evan Dimitri Greatness Thaiputra
 
 - 🔭 I'm currently working on SMK Kristen Immanuel
 - 📚 I'm currently learning on web development
+- 🔍 I'm currently search for team to make a project
 
 ##### Skills
 

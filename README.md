@@ -1,17 +1,5 @@
 ## Hello World! 👋
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/evandimitri89/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-
-![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhhOW50a2x2cXhmMDRucGU0anVsMGE3c3Nic2JwbnF3cTU3bWVydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UlexC9HXTiNz2/giphy.gif)
-
-</div>
-
 # 💫 About Me:
 
 🔭 I’m currently working on SMK Kristen Immanuel Pontianak<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with react.js<br>🌱 I’m currently learning Frontend web development

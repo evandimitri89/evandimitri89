@@ -18,32 +18,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=evandimitri89&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evandimitri89&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=evandimitri89&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=evandimitri89&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
-### 📚 Contribution in the last year
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evandimitri89/evandimitri89/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evandimitri89/evandimitri89/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evandimitri89/evandimitri89/output/pacman-contribution-graph.svg">
-</picture>
-
-### 🎵 My Spotify
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xbcgiazjwzs6xds5mwaom2vmbi&unique={true|1|on|yes})
-
----
-
-## 💰 You can help me by Donating
-
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/evandimitri89)

@@ -22,7 +22,7 @@
 
 ```yaml
 name       : Evan Dimitri
-education  : Institut Teknologi & Informasi Bisnis Sabda Setia
+education  : Institut Teknologi & Bisnis Sabda Setia
 location   : Pontianak, West Kalimantan, ID
 status     : Open to collaborate 🟢
 learning   : Frontend Web Development · React.js
@@ -78,19 +78,6 @@ interests  : [ "Web Dev", "UI Design", "Open Source" ]
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=evandimitri89&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandimitri89&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=evandimitri89&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
@@ -106,7 +93,5 @@ interests  : [ "Web Dev", "UI Design", "Open Source" ]
 ```
 // thanks for visiting · let's build something cool together 🚀
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=evandimitri89&style=flat-square&color=5563de&label=profile+views)
 
 </div>

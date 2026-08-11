@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-// hello, world 👋
+// Hi gengs
 ```
 
 # Evan Dimitri
@@ -25,8 +25,6 @@ name       : Evan Dimitri
 education  : Institut Teknologi & Bisnis Sabda Setia
 location   : Pontianak, West Kalimantan, ID
 status     : Open to collaborate 🟢
-learning   : Frontend Web Development · React.js
-interests  : [ "Web Dev", "UI Design", "Open Source" ]
 ```
 
 - 🎓 Mahasiswa **Institut Teknologi & Informasi Bisnis Sabda Setia**
